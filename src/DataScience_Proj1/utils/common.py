@@ -8,7 +8,6 @@ from typing import Any
 from box import ConfigBox
 from ensure import ensure_annotations
 from box.exceptions import BoxValueError
-from django.urls import path
 
 @ensure_annotations
 def read_yaml(path_to_yaml: Path) -> ConfigBox:
