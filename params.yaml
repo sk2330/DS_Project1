@@ -1,1 +1,6 @@
-key : value
+##algorithm and its parameters code here
+
+Elasticnet:
+    alpha: 0.2
+    l1_ratio: 0.1
+    
