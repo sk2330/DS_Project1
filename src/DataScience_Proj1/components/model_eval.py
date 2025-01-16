@@ -11,9 +11,9 @@ import joblib
 from src.DataScience_Proj1.utils.common import save_json
 from src.DataScience_Proj1.entity.config_entity import ModelEvaluationConfig
 
-os.environ['MLFLOW_TRACKING_URI']='https://dagshub.com/saikiven03/DS_Project1.mlflow'
-os.environ['MLFLOW_TRACKING_USERNAME']='saikiven03'
-os.environ['MLFLOW_TRACKING_PASSWORD']='7c0e76b0f174dd060d5f14dafb6d79494ef83cfa'
+# os.environ['MLFLOW_TRACKING_URI']='https://dagshub.com/saikiven03/DS_Project1.mlflow'
+# os.environ['MLFLOW_TRACKING_USERNAME']='saik03'
+# os.environ['MLFLOW_TRACKING_PASSWORD']='7c0e76b0f174dd060d5f14dafb6d79494a'
 
 ##Model evaluation
 import numpy as np
